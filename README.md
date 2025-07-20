@@ -6,7 +6,7 @@ A Deep Learning Assignment for CSE366
 
 ## Project Overview
 
-This project implements a robust solution for plant leaf classification using the power of **transfer learning**. We leverage state-of-the-art pre-trained Convolutional Neural Network (CNN) architectures, fine-tuning them to accurately identify 22 different types of plant leaves. The entire workflow—from data preprocessing and model configuration to training, evaluation, and performance comparison—is meticulously documented in the accompanying Google Colab notebook.
+This project implements a robust solution for plant leaf classification using the power of **transfer learning**. We leverage state-of-the-art pre-trained Convolutional Neural Network (CNN) architectures, fine-tuning them to accurately identify 22 different types of plant leaves. The entire workflow—from data preprocessing and model configuration to training, evaluation, and performance comparison—is meticulously documented in the accompanying Kaggle
 
 ## Group Members
 
