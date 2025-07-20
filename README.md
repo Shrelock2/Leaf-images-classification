@@ -14,6 +14,7 @@ This project implements a robust solution for plant leaf classification using th
 | ------------------------- | --------------- |
 | MD. Nasibul Islam Sazid   | 2022-3-60-014   |
 | Sababa Fairoze Prionty    | 2022-3-60-229   |
+| Anha Dhali                | 2022-3-107
 
 ---
 
